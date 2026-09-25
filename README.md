@@ -16,7 +16,7 @@ Para cada exercício: **Requisitos → MER → DER → DDL → DML → DQL → E
 - MER e DER devem ser produzidos pelo aluno.
 
 ## Identificação
-- **Aluno:**
-- **Turma:**
-- **Professor:**
-- **Data:**
+- **Aluno: Arthur Henrique Alves Alencar**
+- **Turma: Sistemas Para Internet - Noturno - 2° Semestre**
+- **Professor: Eduardo Vitor**
+- **Data: 25/09/2026**
