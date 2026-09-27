@@ -12,5 +12,5 @@
 
 ## Status
 - [ ] Não iniciado
-- [] Em desenvolvimento (falta registrar evidências de execução)
+- [ ] Em desenvolvimento (falta registrar evidências de execução)
 - [x] Finalizado
